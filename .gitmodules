@@ -1,0 +1,12 @@
+[submodule "fcc-tribute-page"]
+	path = fcc-tribute-page
+	url = https://github.com/sm1234sm/fcc-tribute-page
+[submodule "fcc-survey-form"]
+	path = fcc-survey-form
+	url = https://github.com/sm1234sm/fcc-survey-form
+[submodule "fcc-product-landing"]
+	path = fcc-product-landing
+	url = https://github.com/sm1234sm/fcc-product-landing
+[submodule "fcc-technical-documentation"]
+	path = fcc-technical-documentation
+	url = https://github.com/sm1234sm/fcc-technical-documentation
